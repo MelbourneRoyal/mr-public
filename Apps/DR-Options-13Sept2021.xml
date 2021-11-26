@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <DNSRoamingOption xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <DisableIPV6>true</DisableIPV6>
+  <DaysToRetainLogs>14</DaysToRetainLogs>
+  <AutoUpdate>true</AutoUpdate>
+  <AutoUpdateHours>72</AutoUpdateHours>
 </DNSRoamingOption>
