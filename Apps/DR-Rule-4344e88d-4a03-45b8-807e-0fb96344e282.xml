@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DNSRoamingRule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>4344e88d-4a03-45b8-807e-0fb96344e282</ID>
+  <UseNetworkType>true</UseNetworkType>
+  <NetworkType>Wireless80211</NetworkType>
+  <NetworkNameIs />
+  <NetworkNameIsNot />
+  <AddressIsSpecific>false</AddressIsSpecific>
+  <AddressIsNotSpecific>true</AddressIsNotSpecific>
+  <AddressByType>2</AddressByType>
+  <AddressIP>61.68.15.200</AddressIP>
+  <AddressSubnet>255.255.255.0</AddressSubnet>
+  <DNSSet>Quad9 + CloudFlare - No Malware</DNSSet>
+  <DNSPreferred />
+  <DNSAlternative />
+  <DNS2ndAlternative />
+  <DNS3rdAlternative />
+  <ResetToDHCP>false</ResetToDHCP>
+  <DelaySeconds>5</DelaySeconds>
+  <RuleWasDownloaded>false</RuleWasDownloaded>
+  <RuleDownloadURL />
+</DNSRoamingRule>

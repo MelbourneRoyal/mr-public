@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DNSRoamingRule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>72ab3aab-6707-4126-b1ce-87298c3aa8a7</ID>
+  <UseNetworkType>true</UseNetworkType>
+  <NetworkType>Ethernet,Wireless80211</NetworkType>
+  <NetworkNameIs />
+  <NetworkNameIsNot />
+  <AddressIsSpecific>true</AddressIsSpecific>
+  <AddressIsNotSpecific>false</AddressIsNotSpecific>
+  <AddressByType>2</AddressByType>
+  <AddressIP>61.68.15.200</AddressIP>
+  <AddressSubnet>255.255.255.0</AddressSubnet>
+  <DNSSet />
+  <DNSPreferred />
+  <DNSAlternative />
+  <DNS2ndAlternative />
+  <DNS3rdAlternative />
+  <ResetToDHCP>true</ResetToDHCP>
+  <DelaySeconds>5</DelaySeconds>
+  <RuleWasDownloaded>false</RuleWasDownloaded>
+  <RuleDownloadURL />
+</DNSRoamingRule>
