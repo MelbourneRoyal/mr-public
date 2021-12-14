@@ -1,4 +1,0 @@
-//Delete all existing rules
-DeleteAllRules
-//Wifi Rule
-https://raw.githubusercontent.com/MelbourneRoyal/mr-public/main/Apps/DR-Rule-4344e88d-4a03-45b8-807e-0fb96344e282.xml
