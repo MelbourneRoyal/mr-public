@@ -17,6 +17,4 @@
   <DNS3rdAlternative />
   <ResetToDHCP>true</ResetToDHCP>
   <DelaySeconds>5</DelaySeconds>
-  <RuleWasDownloaded>false</RuleWasDownloaded>
-  <RuleDownloadURL />
 </DNSRoamingRule>
