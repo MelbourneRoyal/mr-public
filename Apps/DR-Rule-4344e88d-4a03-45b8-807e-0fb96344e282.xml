@@ -7,9 +7,9 @@
   <NetworkNameIsNot />
   <AddressIsSpecific>false</AddressIsSpecific>
   <AddressIsNotSpecific>true</AddressIsNotSpecific>
-  <AddressByType>2</AddressByType>
-  <AddressIP>61.68.15.200</AddressIP>
-  <AddressSubnet>255.255.255.0</AddressSubnet>
+  <AddressByType>0</AddressByType>
+  <AddressIP />
+  <AddressSubnet />
   <DNSSet>Quad9 + CloudFlare - No Malware</DNSSet>
   <DNSPreferred />
   <DNSAlternative />
@@ -17,4 +17,6 @@
   <DNS3rdAlternative />
   <ResetToDHCP>false</ResetToDHCP>
   <DelaySeconds>5</DelaySeconds>
+  <PingType>2</PingType>
+  <PingAddress>192.168.1.43</PingAddress>
 </DNSRoamingRule>
