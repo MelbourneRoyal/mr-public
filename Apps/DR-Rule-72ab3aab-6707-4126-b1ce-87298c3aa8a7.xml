@@ -7,9 +7,9 @@
   <NetworkNameIsNot />
   <AddressIsSpecific>true</AddressIsSpecific>
   <AddressIsNotSpecific>false</AddressIsNotSpecific>
-  <AddressByType>2</AddressByType>
-  <AddressIP>61.68.15.200</AddressIP>
-  <AddressSubnet>255.255.255.0</AddressSubnet>
+  <AddressByType>0</AddressByType>
+  <AddressIP />
+  <AddressSubnet />
   <DNSSet />
   <DNSPreferred />
   <DNSAlternative />
@@ -17,4 +17,6 @@
   <DNS3rdAlternative />
   <ResetToDHCP>true</ResetToDHCP>
   <DelaySeconds>5</DelaySeconds>
+  <PingType>1</PingType>
+  <PingAddress>192.168.1.43</PingAddress>
 </DNSRoamingRule>
