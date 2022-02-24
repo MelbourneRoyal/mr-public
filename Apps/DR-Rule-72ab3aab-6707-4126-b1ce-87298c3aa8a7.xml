@@ -16,7 +16,7 @@
   <DNS2ndAlternative />
   <DNS3rdAlternative />
   <ResetToDHCP>true</ResetToDHCP>
-  <DelaySeconds>5</DelaySeconds>
+  <DelaySeconds>30</DelaySeconds>
   <PingType>1</PingType>
   <PingAddress>192.168.1.43</PingAddress>
 </DNSRoamingRule>
