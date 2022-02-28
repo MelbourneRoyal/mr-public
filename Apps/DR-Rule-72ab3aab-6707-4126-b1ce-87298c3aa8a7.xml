@@ -11,11 +11,11 @@
   <AddressIP />
   <AddressSubnet />
   <DNSSet />
-  <DNSPreferred />
-  <DNSAlternative />
-  <DNS2ndAlternative />
-  <DNS3rdAlternative />
-  <ResetToDHCP>true</ResetToDHCP>
+  <DNSPreferred>192.168.1.43<DNSPreferred/>
+  <DNSAlternative>192.168.1.44<DNSAlternative/>
+  <DNS2ndAlternative>9.9.9.9<DNS2ndAlternative/>
+  <DNS3rdAlternative>1.1.1.2<DNS3rdAlternative/>
+  <ResetToDHCP>false</ResetToDHCP>
   <DelaySeconds>30</DelaySeconds>
   <PingType>1</PingType>
   <PingAddress>192.168.1.43</PingAddress>
