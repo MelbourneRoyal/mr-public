@@ -1,0 +1,7 @@
+minversion:1.3.0.3
+//Delete all existing rules
+DeleteAllRules
+//Wifi Not in the office set to Quad9 
+https://raw.githubusercontent.com/MelbourneRoyal/mr-public/main/Apps/DR-Rule-4344e88d-4a03-45b8-807e-0fb96344e282.xml
+//Ethernet in the office set to DHCP
+https://raw.githubusercontent.com/MelbourneRoyal/mr-public/main/Apps/DR-Rule-72ab3aab-6707-4126-b1ce-87298c3aa8a7.xml
